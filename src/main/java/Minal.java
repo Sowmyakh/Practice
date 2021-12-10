@@ -6,5 +6,6 @@ public class Minal {
 	public void test()
 {
 	System.out.println("Minal testing");
+	System.out.println("branch changes");
 }
 }
