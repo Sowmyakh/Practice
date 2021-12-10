@@ -7,5 +7,6 @@ public void sample()
 {
 	System.out.println("hi.....");
 	System.out.println("hello......");
+	System.out.println("third time");
 	}
 }
