@@ -6,5 +6,6 @@ public class Trail1 {
 public void sample()
 {
 	System.out.println("hi.....");
+	System.out.println("hello......");
 	}
 }
