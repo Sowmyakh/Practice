@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-12-10T10:10:15 IST" name="Default suite" finished-at="2021-12-10T10:10:15 IST" duration-ms="32">
+  <suite started-at="2021-12-10T17:21:09 IST" name="Default suite" finished-at="2021-12-10T17:21:09 IST" duration-ms="70">
     <groups>
     </groups>
-    <test started-at="2021-12-10T10:10:15 IST" name="Default test" finished-at="2021-12-10T10:10:15 IST" duration-ms="32">
-      <class name="Trail1">
-        <test-method signature="sample()[pri:0, instance:Trail1@f381794]" started-at="2021-12-10T10:10:15 IST" name="sample" finished-at="2021-12-10T10:10:15 IST" duration-ms="6" status="PASS">
+    <test started-at="2021-12-10T17:21:09 IST" name="Default test" finished-at="2021-12-10T17:21:09 IST" duration-ms="70">
+      <class name="ReadDataParTest">
+        <test-method signature="readdata()[pri:0, instance:ReadDataParTest@52102734]" started-at="2021-12-10T17:21:09 IST" name="readdata" finished-at="2021-12-10T17:21:09 IST" duration-ms="12" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- sample -->
-      </class> <!-- Trail1 -->
+        </test-method> <!-- readdata -->
+      </class> <!-- ReadDataParTest -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
